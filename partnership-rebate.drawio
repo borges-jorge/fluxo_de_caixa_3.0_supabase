@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" pages="2">
   <diagram name="rebate-sipoc" id="SOTNAegmU-NmxQ3hthT3">
-    <mxGraphModel dx="3710" dy="2144" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4944" dy="2729" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -146,9 +146,9 @@
           <mxGeometry height="60" width="180" x="-753" y="970" as="geometry" />
         </mxCell>
         <mxCell id="BxejCaj6V3fL2wfmJQmC-68" parent="1" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" value="Email de confirmação de recebimento" vertex="1">
-          <mxGeometry height="80" width="120" x="-193" y="960" as="geometry" />
+          <mxGeometry height="80" width="120" x="-160" y="970" as="geometry" />
         </mxCell>
-        <mxCell id="BxejCaj6V3fL2wfmJQmC-69" edge="1" parent="1" source="BxejCaj6V3fL2wfmJQmC-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+        <mxCell id="BxejCaj6V3fL2wfmJQmC-69" edge="1" parent="1" source="BxejCaj6V3fL2wfmJQmC-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="BxejCaj6V3fL2wfmJQmC-68">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-180" y="1010" as="targetPoint" />
           </mxGeometry>
@@ -166,7 +166,7 @@
           <mxGeometry height="60" width="120" x="430" y="350" as="geometry" />
         </mxCell>
         <mxCell id="BxejCaj6V3fL2wfmJQmC-74" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" value="" vertex="1">
-          <mxGeometry height="525" width="280" x="390" y="1020" as="geometry" />
+          <mxGeometry height="525" width="280" x="400" y="1010" as="geometry" />
         </mxCell>
         <mxCell id="BxejCaj6V3fL2wfmJQmC-41" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Realizar tratamento de dados do CSV LAND" vertex="1">
           <mxGeometry height="60" width="120" x="430" y="180" as="geometry" />
