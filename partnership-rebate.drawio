@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" pages="2">
   <diagram name="rebate-sipoc" id="SOTNAegmU-NmxQ3hthT3">
-    <mxGraphModel dx="3847" dy="2209" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3710" dy="2144" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -145,9 +145,6 @@
         <mxCell id="BxejCaj6V3fL2wfmJQmC-67" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="KLEBERSON (FIN)" vertex="1">
           <mxGeometry height="60" width="180" x="-753" y="970" as="geometry" />
         </mxCell>
-        <mxCell id="BxejCaj6V3fL2wfmJQmC-70" edge="1" parent="1" source="BxejCaj6V3fL2wfmJQmC-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="BxejCaj6V3fL2wfmJQmC-65">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="BxejCaj6V3fL2wfmJQmC-68" parent="1" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" value="Email de confirmação de recebimento" vertex="1">
           <mxGeometry height="80" width="120" x="-193" y="960" as="geometry" />
         </mxCell>
@@ -159,6 +156,9 @@
         <mxCell id="BxejCaj6V3fL2wfmJQmC-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Extrair a informação" vertex="1">
           <mxGeometry height="60" width="120" x="430" y="98.75" as="geometry" />
         </mxCell>
+        <mxCell id="BxejCaj6V3fL2wfmJQmC-70" edge="1" parent="1" source="BxejCaj6V3fL2wfmJQmC-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="BxejCaj6V3fL2wfmJQmC-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BxejCaj6V3fL2wfmJQmC-83" edge="1" parent="1" source="BxejCaj6V3fL2wfmJQmC-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="BxejCaj6V3fL2wfmJQmC-82" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -166,7 +166,7 @@
           <mxGeometry height="60" width="120" x="430" y="350" as="geometry" />
         </mxCell>
         <mxCell id="BxejCaj6V3fL2wfmJQmC-74" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" value="" vertex="1">
-          <mxGeometry height="430" width="280" x="380" y="1015" as="geometry" />
+          <mxGeometry height="525" width="280" x="390" y="1020" as="geometry" />
         </mxCell>
         <mxCell id="BxejCaj6V3fL2wfmJQmC-41" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Realizar tratamento de dados do CSV LAND" vertex="1">
           <mxGeometry height="60" width="120" x="430" y="180" as="geometry" />
@@ -186,11 +186,11 @@
         <mxCell id="BxejCaj6V3fL2wfmJQmC-63" parent="1" style="whiteSpace=wrap;html=1;" value="Aguardando a Emissão da NF pelo Kleberson" vertex="1">
           <mxGeometry height="60" width="120" x="480" y="1200" as="geometry" />
         </mxCell>
+        <mxCell id="BxejCaj6V3fL2wfmJQmC-97" edge="1" parent="1" source="BxejCaj6V3fL2wfmJQmC-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="BxejCaj6V3fL2wfmJQmC-96">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BxejCaj6V3fL2wfmJQmC-65" parent="1" style="whiteSpace=wrap;html=1;" value="Receber informação de faturamento" vertex="1">
           <mxGeometry height="60" width="120" x="480" y="1295" as="geometry" />
-        </mxCell>
-        <mxCell id="BxejCaj6V3fL2wfmJQmC-75" parent="1" style="text;strokeColor=none;fillColor=none;html=1;fontSize=20;fontStyle=0;verticalAlign=middle;align=center;autosizeText=0;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Solicitação de Faturamento&lt;/b&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="70" width="160" x="460" y="1390" as="geometry" />
         </mxCell>
         <mxCell id="BxejCaj6V3fL2wfmJQmC-78" edge="1" parent="1" source="BxejCaj6V3fL2wfmJQmC-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="BxejCaj6V3fL2wfmJQmC-77" value="">
           <mxGeometry relative="1" as="geometry">
@@ -223,14 +223,26 @@
         <mxCell id="BxejCaj6V3fL2wfmJQmC-85" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Calculo manual de variação mensal dos valores dos programas" vertex="1">
           <mxGeometry height="75" width="150" x="414" y="540" as="geometry" />
         </mxCell>
-        <mxCell id="BxejCaj6V3fL2wfmJQmC-90" edge="1" parent="1" source="BxejCaj6V3fL2wfmJQmC-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="BxejCaj6V3fL2wfmJQmC-17">
+        <mxCell id="BxejCaj6V3fL2wfmJQmC-90" edge="1" parent="1" source="BxejCaj6V3fL2wfmJQmC-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="BxejCaj6V3fL2wfmJQmC-89">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BxejCaj6V3fL2wfmJQmC-87" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Prepara a informação para o financeiro" vertex="1">
           <mxGeometry height="60" width="120" x="429" y="640" as="geometry" />
         </mxCell>
+        <mxCell id="BxejCaj6V3fL2wfmJQmC-92" edge="1" parent="1" source="BxejCaj6V3fL2wfmJQmC-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="BxejCaj6V3fL2wfmJQmC-91">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BxejCaj6V3fL2wfmJQmC-89" parent="1" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" value="Email de solicitação" vertex="1">
           <mxGeometry height="80" width="120" x="980" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="BxejCaj6V3fL2wfmJQmC-91" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="FIORE" vertex="1">
+          <mxGeometry height="60" width="120" x="1440" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="BxejCaj6V3fL2wfmJQmC-75" parent="1" style="text;strokeColor=none;fillColor=none;html=1;fontSize=20;fontStyle=0;verticalAlign=middle;align=center;autosizeText=0;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Solicitação de Faturamento&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="70" width="160" x="450" y="1480" as="geometry" />
+        </mxCell>
+        <mxCell id="BxejCaj6V3fL2wfmJQmC-96" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Arquivar a informação" vertex="1">
+          <mxGeometry height="60" width="120" x="480" y="1410" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
